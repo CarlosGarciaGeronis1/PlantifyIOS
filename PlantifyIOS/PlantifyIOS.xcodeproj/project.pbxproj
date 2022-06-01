@@ -21,6 +21,11 @@
 		8EA239022846F7790001AEDA /* background_inicio.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA239002846F7790001AEDA /* background_inicio.png */; };
 		8EA239032846F7790001AEDA /* aloe_vera_example.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA239012846F7790001AEDA /* aloe_vera_example.png */; };
 		8EA2390C2846FAE10001AEDA /* VHSZf.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA2390B2846FAE10001AEDA /* VHSZf.png */; };
+		8EA2390E2846FEC70001AEDA /* 1946429.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA2390D2846FEC70001AEDA /* 1946429.png */; };
+		8EA23911284701530001AEDA /* bedroom.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA2390F284701530001AEDA /* bedroom.png */; };
+		8EA23912284701530001AEDA /* garden.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA23910284701530001AEDA /* garden.png */; };
+		8EA239152847015B0001AEDA /* rooftop.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA239132847015B0001AEDA /* rooftop.png */; };
+		8EA239162847015B0001AEDA /* livingroom.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA239142847015B0001AEDA /* livingroom.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +45,11 @@
 		8EA239002846F7790001AEDA /* background_inicio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background_inicio.png; sourceTree = "<group>"; };
 		8EA239012846F7790001AEDA /* aloe_vera_example.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aloe_vera_example.png; sourceTree = "<group>"; };
 		8EA2390B2846FAE10001AEDA /* VHSZf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = VHSZf.png; path = ../../../VHSZf.png; sourceTree = "<group>"; };
+		8EA2390D2846FEC70001AEDA /* 1946429.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1946429.png; sourceTree = "<group>"; };
+		8EA2390F284701530001AEDA /* bedroom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bedroom.png; sourceTree = "<group>"; };
+		8EA23910284701530001AEDA /* garden.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = garden.png; sourceTree = "<group>"; };
+		8EA239132847015B0001AEDA /* rooftop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rooftop.png; sourceTree = "<group>"; };
+		8EA239142847015B0001AEDA /* livingroom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = livingroom.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +97,11 @@
 				8EA239012846F7790001AEDA /* aloe_vera_example.png */,
 				8EA239002846F7790001AEDA /* background_inicio.png */,
 				8EA2390B2846FAE10001AEDA /* VHSZf.png */,
+				8EA2390D2846FEC70001AEDA /* 1946429.png */,
+				8EA2390F284701530001AEDA /* bedroom.png */,
+				8EA23910284701530001AEDA /* garden.png */,
+				8EA239142847015B0001AEDA /* livingroom.png */,
+				8EA239132847015B0001AEDA /* rooftop.png */,
 			);
 			path = PlantifyIOS;
 			sourceTree = "<group>";
@@ -150,15 +165,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EA239022846F7790001AEDA /* background_inicio.png in Resources */,
+				8EA2390E2846FEC70001AEDA /* 1946429.png in Resources */,
+				8EA23911284701530001AEDA /* bedroom.png in Resources */,
 				5097A0DA2846E42900565777 /* LaunchScreen.storyboard in Resources */,
 				8EA2390C2846FAE10001AEDA /* VHSZf.png in Resources */,
 				8EA238FC2846F76E0001AEDA /* plant2.png in Resources */,
+				8EA239152847015B0001AEDA /* rooftop.png in Resources */,
+				8EA239162847015B0001AEDA /* livingroom.png in Resources */,
 				8EA239032846F7790001AEDA /* aloe_vera_example.png in Resources */,
 				8EA238FE2846F76E0001AEDA /* plant1.png in Resources */,
 				8EA238FF2846F76E0001AEDA /* plant3.jpg in Resources */,
 				8EA238FB2846F76E0001AEDA /* planta.png in Resources */,
 				5097A0D72846E42900565777 /* Assets.xcassets in Resources */,
 				5097A0D52846E42800565777 /* Main.storyboard in Resources */,
+				8EA23912284701530001AEDA /* garden.png in Resources */,
 				8EA238FD2846F76E0001AEDA /* logo_bnegro.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
