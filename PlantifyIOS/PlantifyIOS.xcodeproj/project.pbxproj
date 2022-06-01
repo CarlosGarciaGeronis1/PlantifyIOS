@@ -20,6 +20,7 @@
 		8EA238FF2846F76E0001AEDA /* plant3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8EA238FA2846F76E0001AEDA /* plant3.jpg */; };
 		8EA239022846F7790001AEDA /* background_inicio.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA239002846F7790001AEDA /* background_inicio.png */; };
 		8EA239032846F7790001AEDA /* aloe_vera_example.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA239012846F7790001AEDA /* aloe_vera_example.png */; };
+		8EA2390C2846FAE10001AEDA /* VHSZf.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA2390B2846FAE10001AEDA /* VHSZf.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		8EA238FA2846F76E0001AEDA /* plant3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plant3.jpg; sourceTree = "<group>"; };
 		8EA239002846F7790001AEDA /* background_inicio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background_inicio.png; sourceTree = "<group>"; };
 		8EA239012846F7790001AEDA /* aloe_vera_example.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aloe_vera_example.png; sourceTree = "<group>"; };
+		8EA2390B2846FAE10001AEDA /* VHSZf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = VHSZf.png; path = ../../../VHSZf.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				8EA238F62846F76D0001AEDA /* planta.png */,
 				8EA239012846F7790001AEDA /* aloe_vera_example.png */,
 				8EA239002846F7790001AEDA /* background_inicio.png */,
+				8EA2390B2846FAE10001AEDA /* VHSZf.png */,
 			);
 			path = PlantifyIOS;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				8EA239022846F7790001AEDA /* background_inicio.png in Resources */,
 				5097A0DA2846E42900565777 /* LaunchScreen.storyboard in Resources */,
+				8EA2390C2846FAE10001AEDA /* VHSZf.png in Resources */,
 				8EA238FC2846F76E0001AEDA /* plant2.png in Resources */,
 				8EA239032846F7790001AEDA /* aloe_vera_example.png in Resources */,
 				8EA238FE2846F76E0001AEDA /* plant1.png in Resources */,
