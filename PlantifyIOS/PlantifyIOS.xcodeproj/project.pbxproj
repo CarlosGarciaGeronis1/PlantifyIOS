@@ -13,6 +13,13 @@
 		5097A0D52846E42800565777 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5097A0D32846E42800565777 /* Main.storyboard */; };
 		5097A0D72846E42900565777 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5097A0D62846E42900565777 /* Assets.xcassets */; };
 		5097A0DA2846E42900565777 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5097A0D82846E42900565777 /* LaunchScreen.storyboard */; };
+		8EA238FB2846F76E0001AEDA /* planta.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA238F62846F76D0001AEDA /* planta.png */; };
+		8EA238FC2846F76E0001AEDA /* plant2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA238F72846F76D0001AEDA /* plant2.png */; };
+		8EA238FD2846F76E0001AEDA /* logo_bnegro.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA238F82846F76D0001AEDA /* logo_bnegro.png */; };
+		8EA238FE2846F76E0001AEDA /* plant1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA238F92846F76D0001AEDA /* plant1.png */; };
+		8EA238FF2846F76E0001AEDA /* plant3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8EA238FA2846F76E0001AEDA /* plant3.jpg */; };
+		8EA239022846F7790001AEDA /* background_inicio.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA239002846F7790001AEDA /* background_inicio.png */; };
+		8EA239032846F7790001AEDA /* aloe_vera_example.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA239012846F7790001AEDA /* aloe_vera_example.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		5097A0D62846E42900565777 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5097A0D92846E42900565777 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5097A0DB2846E42900565777 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EA238F62846F76D0001AEDA /* planta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = planta.png; sourceTree = "<group>"; };
+		8EA238F72846F76D0001AEDA /* plant2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plant2.png; sourceTree = "<group>"; };
+		8EA238F82846F76D0001AEDA /* logo_bnegro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_bnegro.png; sourceTree = "<group>"; };
+		8EA238F92846F76D0001AEDA /* plant1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plant1.png; sourceTree = "<group>"; };
+		8EA238FA2846F76E0001AEDA /* plant3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plant3.jpg; sourceTree = "<group>"; };
+		8EA239002846F7790001AEDA /* background_inicio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background_inicio.png; sourceTree = "<group>"; };
+		8EA239012846F7790001AEDA /* aloe_vera_example.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aloe_vera_example.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +77,13 @@
 				5097A0D62846E42900565777 /* Assets.xcassets */,
 				5097A0D82846E42900565777 /* LaunchScreen.storyboard */,
 				5097A0DB2846E42900565777 /* Info.plist */,
+				8EA238F82846F76D0001AEDA /* logo_bnegro.png */,
+				8EA238F92846F76D0001AEDA /* plant1.png */,
+				8EA238F72846F76D0001AEDA /* plant2.png */,
+				8EA238FA2846F76E0001AEDA /* plant3.jpg */,
+				8EA238F62846F76D0001AEDA /* planta.png */,
+				8EA239012846F7790001AEDA /* aloe_vera_example.png */,
+				8EA239002846F7790001AEDA /* background_inicio.png */,
 			);
 			path = PlantifyIOS;
 			sourceTree = "<group>";
@@ -125,9 +146,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EA239022846F7790001AEDA /* background_inicio.png in Resources */,
 				5097A0DA2846E42900565777 /* LaunchScreen.storyboard in Resources */,
+				8EA238FC2846F76E0001AEDA /* plant2.png in Resources */,
+				8EA239032846F7790001AEDA /* aloe_vera_example.png in Resources */,
+				8EA238FE2846F76E0001AEDA /* plant1.png in Resources */,
+				8EA238FF2846F76E0001AEDA /* plant3.jpg in Resources */,
+				8EA238FB2846F76E0001AEDA /* planta.png in Resources */,
 				5097A0D72846E42900565777 /* Assets.xcassets in Resources */,
 				5097A0D52846E42800565777 /* Main.storyboard in Resources */,
+				8EA238FD2846F76E0001AEDA /* logo_bnegro.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
