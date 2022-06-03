@@ -17,6 +17,7 @@
 		5097A1162849361200565777 /* perfilesViewCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A1152849361200565777 /* perfilesViewCollection.swift */; };
 		5097A1182849422700565777 /* Perfil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A1172849422700565777 /* Perfil.swift */; };
 		5097A11A2849474F00565777 /* PerfilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A1192849474F00565777 /* PerfilViewController.swift */; };
+		50F9E97F284AA8E4006F8724 /* acerca_de.png in Resources */ = {isa = PBXBuildFile; fileRef = 50F9E97E284AA8E4006F8724 /* acerca_de.png */; };
 		8EA238FB2846F76E0001AEDA /* planta.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA238F62846F76D0001AEDA /* planta.png */; };
 		8EA238FC2846F76E0001AEDA /* plant2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA238F72846F76D0001AEDA /* plant2.png */; };
 		8EA238FD2846F76E0001AEDA /* logo_bnegro.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA238F82846F76D0001AEDA /* logo_bnegro.png */; };
@@ -44,6 +45,7 @@
 		5097A1152849361200565777 /* perfilesViewCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = perfilesViewCollection.swift; sourceTree = "<group>"; };
 		5097A1172849422700565777 /* Perfil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Perfil.swift; sourceTree = "<group>"; };
 		5097A1192849474F00565777 /* PerfilViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilViewController.swift; sourceTree = "<group>"; };
+		50F9E97E284AA8E4006F8724 /* acerca_de.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = acerca_de.png; sourceTree = "<group>"; };
 		8EA238F62846F76D0001AEDA /* planta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = planta.png; sourceTree = "<group>"; };
 		8EA238F72846F76D0001AEDA /* plant2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plant2.png; sourceTree = "<group>"; };
 		8EA238F82846F76D0001AEDA /* logo_bnegro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_bnegro.png; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				5097A11328492D0D00565777 /* 2dywpzc.png */,
 				8EA239142847015B0001AEDA /* livingroom.png */,
 				8EA239132847015B0001AEDA /* rooftop.png */,
+				50F9E97E284AA8E4006F8724 /* acerca_de.png */,
 			);
 			path = PlantifyIOS;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				8EA238FC2846F76E0001AEDA /* plant2.png in Resources */,
 				8EA239152847015B0001AEDA /* rooftop.png in Resources */,
 				8EA239162847015B0001AEDA /* livingroom.png in Resources */,
+				50F9E97F284AA8E4006F8724 /* acerca_de.png in Resources */,
 				8EA239032846F7790001AEDA /* aloe_vera_example.png in Resources */,
 				8EA238FE2846F76E0001AEDA /* plant1.png in Resources */,
 				8EA238FF2846F76E0001AEDA /* plant3.jpg in Resources */,
