@@ -7,13 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		502D9149284AD571002B4BF8 /* 2dywpzc.png in Resources */ = {isa = PBXBuildFile; fileRef = 502D9148284AD571002B4BF8 /* 2dywpzc.png */; };
+		502D914B284AD915002B4BF8 /* Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 502D914A284AD914002B4BF8 /* Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png */; };
+		507DA611284AF0F500F4CE52 /* UsuarioController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 507DA610284AF0F500F4CE52 /* UsuarioController.swift */; };
 		5097A0CE2846E42800565777 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A0CD2846E42800565777 /* AppDelegate.swift */; };
 		5097A0D02846E42800565777 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A0CF2846E42800565777 /* SceneDelegate.swift */; };
 		5097A0D22846E42800565777 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A0D12846E42800565777 /* ViewController.swift */; };
 		5097A0D52846E42800565777 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5097A0D32846E42800565777 /* Main.storyboard */; };
 		5097A0D72846E42900565777 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5097A0D62846E42900565777 /* Assets.xcassets */; };
 		5097A0DA2846E42900565777 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5097A0D82846E42900565777 /* LaunchScreen.storyboard */; };
-		5097A11428492D0D00565777 /* 2dywpzc.png in Resources */ = {isa = PBXBuildFile; fileRef = 5097A11328492D0D00565777 /* 2dywpzc.png */; };
 		5097A1162849361200565777 /* perfilesViewCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A1152849361200565777 /* perfilesViewCollection.swift */; };
 		5097A1182849422700565777 /* Perfil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A1172849422700565777 /* Perfil.swift */; };
 		5097A11A2849474F00565777 /* PerfilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A1192849474F00565777 /* PerfilViewController.swift */; };
@@ -33,6 +35,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		502D9148284AD571002B4BF8 /* 2dywpzc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2dywpzc.png; sourceTree = "<group>"; };
+		502D914A284AD914002B4BF8 /* Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png"; sourceTree = "<group>"; };
+		507DA610284AF0F500F4CE52 /* UsuarioController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsuarioController.swift; sourceTree = "<group>"; };
 		5097A0CA2846E42800565777 /* PlantifyIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlantifyIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5097A0CD2846E42800565777 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5097A0CF2846E42800565777 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -41,7 +46,6 @@
 		5097A0D62846E42900565777 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5097A0D92846E42900565777 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5097A0DB2846E42900565777 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5097A11328492D0D00565777 /* 2dywpzc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2dywpzc.png; path = ../../../2dywpzc.png; sourceTree = "<group>"; };
 		5097A1152849361200565777 /* perfilesViewCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = perfilesViewCollection.swift; sourceTree = "<group>"; };
 		5097A1172849422700565777 /* Perfil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Perfil.swift; sourceTree = "<group>"; };
 		5097A1192849474F00565777 /* PerfilViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilViewController.swift; sourceTree = "<group>"; };
@@ -96,6 +100,7 @@
 				5097A1172849422700565777 /* Perfil.swift */,
 				5097A1192849474F00565777 /* PerfilViewController.swift */,
 				5097A1152849361200565777 /* perfilesViewCollection.swift */,
+				507DA610284AF0F500F4CE52 /* UsuarioController.swift */,
 				5097A0D32846E42800565777 /* Main.storyboard */,
 				5097A0D62846E42900565777 /* Assets.xcassets */,
 				5097A0D82846E42900565777 /* LaunchScreen.storyboard */,
@@ -110,10 +115,11 @@
 				8EA2390D2846FEC70001AEDA /* 1946429.png */,
 				8EA2390F284701530001AEDA /* bedroom.png */,
 				8EA23910284701530001AEDA /* garden.png */,
-				5097A11328492D0D00565777 /* 2dywpzc.png */,
 				8EA239142847015B0001AEDA /* livingroom.png */,
 				8EA239132847015B0001AEDA /* rooftop.png */,
 				50F9E97E284AA8E4006F8724 /* acerca_de.png */,
+				502D9148284AD571002B4BF8 /* 2dywpzc.png */,
+				502D914A284AD914002B4BF8 /* Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png */,
 			);
 			path = PlantifyIOS;
 			sourceTree = "<group>";
@@ -177,12 +183,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EA239022846F7790001AEDA /* background_inicio.png in Resources */,
-				5097A11428492D0D00565777 /* 2dywpzc.png in Resources */,
 				8EA2390E2846FEC70001AEDA /* 1946429.png in Resources */,
+				502D914B284AD915002B4BF8 /* Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png in Resources */,
 				8EA23911284701530001AEDA /* bedroom.png in Resources */,
 				5097A0DA2846E42900565777 /* LaunchScreen.storyboard in Resources */,
 				8EA238FC2846F76E0001AEDA /* plant2.png in Resources */,
 				8EA239152847015B0001AEDA /* rooftop.png in Resources */,
+				502D9149284AD571002B4BF8 /* 2dywpzc.png in Resources */,
 				8EA239162847015B0001AEDA /* livingroom.png in Resources */,
 				50F9E97F284AA8E4006F8724 /* acerca_de.png in Resources */,
 				8EA239032846F7790001AEDA /* aloe_vera_example.png in Resources */,
@@ -205,6 +212,7 @@
 			files = (
 				5097A11A2849474F00565777 /* PerfilViewController.swift in Sources */,
 				5097A1182849422700565777 /* Perfil.swift in Sources */,
+				507DA611284AF0F500F4CE52 /* UsuarioController.swift in Sources */,
 				5097A1162849361200565777 /* perfilesViewCollection.swift in Sources */,
 				5097A0D22846E42800565777 /* ViewController.swift in Sources */,
 				5097A0CE2846E42800565777 /* AppDelegate.swift in Sources */,
