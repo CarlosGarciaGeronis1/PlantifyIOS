@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		502D9149284AD571002B4BF8 /* 2dywpzc.png in Resources */ = {isa = PBXBuildFile; fileRef = 502D9148284AD571002B4BF8 /* 2dywpzc.png */; };
 		502D914B284AD915002B4BF8 /* Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 502D914A284AD914002B4BF8 /* Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png */; };
+		502FA03B28502F15003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.12.47.png in Resources */ = {isa = PBXBuildFile; fileRef = 502FA03A28502F15003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.12.47.png */; };
+		502FA03F28503319003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.27.53.png in Resources */ = {isa = PBXBuildFile; fileRef = 502FA03E28503319003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.27.53.png */; };
 		507DA611284AF0F500F4CE52 /* UsuarioController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 507DA610284AF0F500F4CE52 /* UsuarioController.swift */; };
 		5097A0CE2846E42800565777 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A0CD2846E42800565777 /* AppDelegate.swift */; };
 		5097A0D02846E42800565777 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5097A0CF2846E42800565777 /* SceneDelegate.swift */; };
@@ -37,6 +39,8 @@
 /* Begin PBXFileReference section */
 		502D9148284AD571002B4BF8 /* 2dywpzc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2dywpzc.png; sourceTree = "<group>"; };
 		502D914A284AD914002B4BF8 /* Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png"; sourceTree = "<group>"; };
+		502FA03A28502F15003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.12.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Captura de Pantalla 2022-06-07 a la(s) 20.12.47.png"; path = "../../../../../../var/folders/vg/z8sy47ld35g6ttzkb7zl4q49dzx37r/T/TemporaryItems/NSIRD_screencaptureui_4l1t3G/Captura de Pantalla 2022-06-07 a la(s) 20.12.47.png"; sourceTree = "<group>"; };
+		502FA03E28503319003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.27.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de Pantalla 2022-06-07 a la(s) 20.27.53.png"; sourceTree = "<group>"; };
 		507DA610284AF0F500F4CE52 /* UsuarioController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsuarioController.swift; sourceTree = "<group>"; };
 		5097A0CA2846E42800565777 /* PlantifyIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlantifyIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5097A0CD2846E42800565777 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -120,6 +124,8 @@
 				50F9E97E284AA8E4006F8724 /* acerca_de.png */,
 				502D9148284AD571002B4BF8 /* 2dywpzc.png */,
 				502D914A284AD914002B4BF8 /* Captura de Pantalla 2022-06-03 a la(s) 19.02.14.png */,
+				502FA03A28502F15003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.12.47.png */,
+				502FA03E28503319003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.27.53.png */,
 			);
 			path = PlantifyIOS;
 			sourceTree = "<group>";
@@ -190,11 +196,13 @@
 				8EA238FC2846F76E0001AEDA /* plant2.png in Resources */,
 				8EA239152847015B0001AEDA /* rooftop.png in Resources */,
 				502D9149284AD571002B4BF8 /* 2dywpzc.png in Resources */,
+				502FA03B28502F15003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.12.47.png in Resources */,
 				8EA239162847015B0001AEDA /* livingroom.png in Resources */,
 				50F9E97F284AA8E4006F8724 /* acerca_de.png in Resources */,
 				8EA239032846F7790001AEDA /* aloe_vera_example.png in Resources */,
 				8EA238FE2846F76E0001AEDA /* plant1.png in Resources */,
 				8EA238FF2846F76E0001AEDA /* plant3.jpg in Resources */,
+				502FA03F28503319003EA2BF /* Captura de Pantalla 2022-06-07 a la(s) 20.27.53.png in Resources */,
 				8EA238FB2846F76E0001AEDA /* planta.png in Resources */,
 				5097A0D72846E42900565777 /* Assets.xcassets in Resources */,
 				5097A0D52846E42800565777 /* Main.storyboard in Resources */,
